@@ -1,0 +1,12 @@
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\bin\Debug\DeExecutor.exe.config
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\bin\Debug\DeExecutor.exe
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\bin\Debug\DeExecutor.pdb
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\bin\Debug\Guna.UI2.dll
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.csproj.AssemblyReference.cache
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.Form1.resources
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.Properties.Resources.resources
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.csproj.GenerateResource.cache
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.csproj.CoreCompileInputs.cache
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.csproj.Up2Date
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.exe
+C:\Users\Loser\source\repos\DeExecutor\DeExecutor\obj\Debug\DeExecutor.pdb
