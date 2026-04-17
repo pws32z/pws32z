@@ -23,6 +23,7 @@ currently focused on desktop automation, game utilities, and anything that saves
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pws32z&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pws32z&layout=compact&theme=tokyonight&hide_border=true)
+![Download Stats](https://img.shields.io/github/downloads/pws32z/MultiFMacro/total?style=flat-square&color=7c6af7&label=downloads) |
 
 ---
 
