@@ -6,6 +6,29 @@ currently focused on desktop automation, game utilities, and anything that saves
 
 ---
 
+## projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pws32z/SolsJoiner">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pws32z&repo=SolsJoiner&theme=tokyonight&hide_border=true" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/downloads/pws32z/SolsJoiner/total?style=for-the-badge&color=7c6af7&label=downloads&logo=github&logoColor=white" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/pws32z/MultiFMacro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pws32z&repo=MultiFMacro&theme=tokyonight&hide_border=true" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/github/downloads/pws32z/MultiFMacro/total?style=for-the-badge&color=5ce1e6&label=downloads&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## what i work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,13 +41,24 @@ currently focused on desktop automation, game utilities, and anything that saves
 
 - **automation tools** — desktop scripts that click, type, and interact so you don't have to
 - **game utilities** — quality of life tools for games i actually play
+- **small cli stuff** — things that just work from the terminal without needing a whole setup
+
+---
 
 ## stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pws32z&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pws32z&layout=compact&theme=tokyonight&hide_border=true)
-![Download Stats](https://img.shields.io/github/downloads/pws32z/MultiFMacro/total?style=flat-square&color=7c6af7&label=downloads) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pws32z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pws32z&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
----
+
+
 
 *feel free to poke around the repos — most things have a readme that explains what they do and how to run them*
