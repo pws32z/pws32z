@@ -1,4 +1,4 @@
-# hey, i'm [pws32z] 👋
+# hey, i'm pws32z 👋
 
 i build stuff that automates the annoying parts of life — scripts, tools, bots, whatever gets the job done.
 
@@ -18,15 +18,6 @@ currently focused on desktop automation, game utilities, and anything that saves
 
 - **automation tools** — desktop scripts that click, type, and interact so you don't have to
 - **game utilities** — quality of life tools for games i actually play
-
-
----
-
-## a bit about me
-
--*im 16**
--**i love games*
----
 
 ## stats
 
