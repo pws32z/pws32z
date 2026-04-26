@@ -13,10 +13,10 @@ i build stuff
     </td>
     <td align="center">
       <a href="https://github.com/pws32z/MultiFInstance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pws32z&repo=MultiFInstance&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pws32z&repo=multifinstance&theme=tokyonight&hide_border=true" />
       </a>
       <br/>
-      <img src="https://img.shields.io/github/downloads/pws32z/MultiFInstance/total?style=for-the-badge&color=5ce1e6&label=downloads&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/github/downloads/pws32z/MultiFInstance/V1/total?style=for-the-badge&color=5ce1e6&label=downloads&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
