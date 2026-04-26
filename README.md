@@ -11,13 +11,6 @@ i build stuff
       <br/>
       <img src="https://img.shields.io/github/downloads/pws32z/MultiFMacro/total?style=for-the-badge&color=5ce1e6&label=downloads&logo=github&logoColor=white" />
     </td>
-    <td align="center">
-      <a href="https://github.com/pws32z/MultiFInstance">
-        <img src="https://img.shields.io/badge/MultiFInstance-A_sols_rng_multi--account_macro-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/github/downloads/pws32z/MultiFInstance/V1/total?style=for-the-badge&color=5ce1e6&label=downloads&logo=github&logoColor=white" />
-    </td>
   </tr>
 </table>
 
