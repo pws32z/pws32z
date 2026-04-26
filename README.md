@@ -1,7 +1,5 @@
 # hey, i'm pws32z 👋
-
 i build stuff
----
 
 ## projects
 
